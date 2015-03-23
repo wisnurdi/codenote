@@ -169,3 +169,27 @@ Contoh kali ini adalah meregister sebuah library pada sistem operasi.
 Shell "Regsvr32.exe " & “file_library.dll”, vbHide
 ```
 
+##Cara Membuat Report 
+A. Membuat Data Environment
+1. Buka project baru
+2. Klik menu Project
+3. Pilih More Activex Designer
+4. Pilih Data Environment
+5. Klik kanan Connection1
+6. Properties..
+7. Pilih Microsoft Jet 3.51 OLE DB Provider (jika database dibuat dengan Visdata)
+8. Pilih Microsoft Jet 4.0 OLE DB Provider (jika database dibuat dengan access versi 2000 keatas)
+9. Klik Next
+10. Klik button Select or enter database name
+11. Pilih database (di direktori tertentu)
+12. Open
+13. Klik Test Connenction
+14. Klik OK
+15. Klik OK
+16. Klik kanan Connection
+17. Pilih Add Command
+18. Klik kanan Command1
+19. Klik Properties..
+20. dst
+
+Sumber: [http://usahawan-maju.blogspot.com/2013/12/cara-membuat-report-pada-visual-basic-6.html](http://usahawan-maju.blogspot.com/2013/12/cara-membuat-report-pada-visual-basic-6.html)
