@@ -2,10 +2,30 @@ Berikut ini koleksi template yang ada di dunia maya
 
 #GRATIS
 
+##Membuat Sendiri
+
+1. http://wix.com
+
 ##HTML
 
 1. W3 (https://w3layouts.com/). Tersedia berbagai macam kategori siap pakai.
 2. https://shapebootstrap.net/free-templates
+3. http://www.scoopthemes.com/
+4. https://www.freewebtemplates.com/premium-templates/ Di website ini menyediakan juga template untuk CMS yang lain, seperti blogger, magento, concrete5, opencart, phpBB, Drupal, dsb
+5. https://themelot.net -> menyediakan berbagai macam template untuk CMS lainnya
+6. https://bootstrapious.com/free-templates
+7. http://www.pixeden.com/free-web-design-templates
+8. https://colorlib.com/wp/themes/
+9. http://www.free-css.com/free-css-templates
+
+##E-commerce
+1. https://colorlib.com/wp/free-bootstrap-ecommerce-website-templates/
+2. https://colorlib.com/wp/free-ecommerce-wordpress-themes/
+
+##Blogger
+1. https://gooyaabitemplates.com/blogger-templates/free-premium/
+2. http://www.premiumbloggertemplates.com/
+3. http://www.lovelytemplates.com/ -> bisa untuk wordpress juga
 
 
 ##Wordpress
