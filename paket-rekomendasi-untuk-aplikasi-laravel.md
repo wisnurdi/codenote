@@ -16,6 +16,7 @@ Berikut ini beberapa paket yang menurut kami wajib untuk diintegrasikan dalam pe
 
 ##Antarmuka
 - Sweet Alert (https://github.com/uxweb/sweet-alert)
+- Datatables (https://github.com/yajra/laravel-datatables)
 
 ##e-Commerce
 - Shopping Cart (gloudemans/shoppingcart)
